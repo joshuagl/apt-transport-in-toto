@@ -86,7 +86,7 @@ Below options must be configured in `/etc/apt/apt.conf.d/intoto`.
   once there is broad network of rebuilders that provide extensive link
   metadata.
 
-An exemplary configuration file can be found in
+An example configuration file can be found in
 [`apt.conf.d/intoto`](apt.conf.d/intoto).
 
 #### Enable the transport
